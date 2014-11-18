@@ -3,8 +3,8 @@
 	"features":
 [
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca43b"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.543139995762729 39.785250000993521)",
 			"OBJECTID" : "1",
@@ -49,8 +49,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca43d"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.849290001834703 39.570130001810014)",
 			"OBJECTID" : "3",
@@ -95,8 +95,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca441"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-105.163039994486411 40.163670002339465)",
 			"OBJECTID" : "7",
@@ -141,8 +141,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca442"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-105.225819996165242 40.039430000588048)",
 			"OBJECTID" : "8",
@@ -187,8 +187,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca443"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-106.120689996186641 38.814159995650947)",
 			"OBJECTID" : "9",
@@ -233,8 +233,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca444"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-106.045849998675294 38.539159997009598)",
 			"OBJECTID" : "10",
@@ -279,8 +279,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca446"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-105.372779999589682 38.011109999297886)",
 			"OBJECTID" : "12",
@@ -325,8 +325,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca44b"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.673179996843459 39.861659998282448)",
 			"OBJECTID" : "17",
@@ -371,8 +371,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca44e"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.409970005566208 38.874440002522782)",
 			"OBJECTID" : "20",
@@ -417,8 +417,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca44f"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.569890001473297 38.945750002768115)",
 			"OBJECTID" : "21",
@@ -463,8 +463,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca450"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.292190000322194 39.047770001891138)",
 			"OBJECTID" : "22",
@@ -509,8 +509,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca451"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.700249998119901 38.805810000760452)",
 			"OBJECTID" : "23",
@@ -555,8 +555,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca452"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-105.105839998530712 38.428029999300335)",
 			"OBJECTID" : "24",
@@ -601,8 +601,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca455"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-106.368950003622828 40.053679999281869)",
 			"OBJECTID" : "27",
@@ -647,8 +647,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca456"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-105.917240001931575 40.089710001306877)",
 			"OBJECTID" : "28",
@@ -693,8 +693,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca45a"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-106.27141000474117 40.749980002903186)",
 			"OBJECTID" : "32",
@@ -739,8 +739,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca45b"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-105.117219995185096 39.908789999286263)",
 			"OBJECTID" : "33",
@@ -785,8 +785,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca45e"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-106.316689997707329 39.220270003429214)",
 			"OBJECTID" : "36",
@@ -831,8 +831,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca461"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-105.011340001513986 40.451830003843867)",
 			"OBJECTID" : "40",
@@ -877,8 +877,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca463"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-103.666339999447473 39.272770001866569)",
 			"OBJECTID" : "42",
@@ -923,8 +923,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca464"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-103.26481000369057 40.615329996796795)",
 			"OBJECTID" : "43",
@@ -969,8 +969,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca46c"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-103.581060001460244 40.263869999634728)",
 			"OBJECTID" : "51",
@@ -1015,8 +1015,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca46d"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-103.803950005142752 40.334229998170272)",
 			"OBJECTID" : "52",
@@ -1061,8 +1061,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca473"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.496569999883491 38.289090002389422)",
 			"OBJECTID" : "58",
@@ -1107,8 +1107,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca47a"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.701080000403095 40.099980000729687)",
 			"OBJECTID" : "71",
@@ -1153,8 +1153,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca47b"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.632119997536705 40.43561999795115)",
 			"OBJECTID" : "72",
@@ -1199,8 +1199,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca47c"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-105.047969995908304 40.010220004104255)",
 			"OBJECTID" : "73",
@@ -1245,8 +1245,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca480"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-103.093550003490861 40.244430001686659)",
 			"OBJECTID" : "77",
@@ -1291,8 +1291,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca482"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-103.222030004791861 40.175629998038751)",
 			"OBJECTID" : "69",
@@ -1337,8 +1337,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca483"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.308300000627156 38.757769998617356)",
 			"OBJECTID" : "78",
@@ -1383,8 +1383,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca484"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.75650000378991 38.678329996845541)",
 			"OBJECTID" : "79",
@@ -1429,8 +1429,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca485"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.813029994575857 38.969719998961978)",
 			"OBJECTID" : "80",
@@ -1475,8 +1475,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca487"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.608850005534421 40.330540001718148)",
 			"OBJECTID" : "70",
@@ -1521,8 +1521,8 @@
 		}
 	},
 	{
-		"_id" : ObjectId("546bc92cdc9961e5d2fca489"),
-		"type" : "Airport",
+		
+		"type" : "Feature",
 		"properties" : {
 			"WKT" : "POINT (-104.758030002710186 39.709989998800346)",
 			"OBJECTID" : "81",
